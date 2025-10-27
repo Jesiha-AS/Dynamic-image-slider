@@ -8,6 +8,6 @@ Smooth transitions (fade/slide)
 
 Optional thumbnails or dots for navigation
 
-I’ll generate a quick preview image 👇
+
 
 
