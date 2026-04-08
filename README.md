@@ -8,6 +8,6 @@ Smooth transitions (fade/slide)
 
 Optional thumbnails or dots for navigation
 
-
+ https://jesiha-as.github.io/Dynamic-image-slider/
 
 
